@@ -377,8 +377,6 @@ A: Consider upgrading your Groq plan or optimizing model parameters.
 
 ### 🆘 Support
 
-- 📧 **Email**: support@contentcraft.ai
-- 💬 **Discord**: [Join our community](https://discord.gg/contentcraft)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/codenlogic78/ContentCraft_AI_PostGen/issues)
 
 ---
