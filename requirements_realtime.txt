@@ -1,7 +1,9 @@
 streamlit==1.35.0
+requests==2.31.0
+tweepy==4.14.0
+python-dotenv==1.0.0
+pandas==1.5.3
 langchain==0.2.14
 langchain-core==0.2.39
 langchain-community==0.2.12
 langchain_groq==0.1.9
-pandas==1.5.3
-python-dotenv==1.0.0
